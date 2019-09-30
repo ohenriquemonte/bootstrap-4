@@ -1,0 +1,9 @@
+.imagem-carroussel {
+  object-fit: cover;
+  object-position: 0 80%; /* eixo x e y */
+  height: 400px;
+}
+
+h1 {
+  font-family: "Pacifico", cursive;
+}
