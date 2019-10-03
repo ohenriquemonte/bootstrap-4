@@ -16,3 +16,16 @@
 .cor-especial {
   color: darkred;
 }
+
+.cor-botao-especial {
+	background-color: darkred;
+	color: white;
+}
+
+.borda-cor-especial {
+	border-color: darkred;
+}
+
+.largura-card {
+	width: 18rem;
+}
